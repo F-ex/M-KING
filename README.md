@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Table des Matières
 =
 
@@ -189,3 +190,6 @@ Fonctionnalites
 	- Database management
 
 	- Profile creator
+=======
+# M-KING
+>>>>>>> 4c7d1c118740e59e7841c05fef0f67a392218b8c
